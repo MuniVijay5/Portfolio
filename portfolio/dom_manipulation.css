@@ -1,0 +1,13 @@
+div{
+    height: 200px;
+    width: 400px;
+    color: white;
+    background-color: red;
+    border: 2px solid black;
+}
+h1{
+    color: black;
+}
+p{
+    color: aqua;
+}

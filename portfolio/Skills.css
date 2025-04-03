@@ -1,0 +1,51 @@
+
+h1{
+    color: white;
+    text-align: center;
+}
+ul{
+    color: white;
+    cursor: pointer;
+}
+.navbar{
+    border: 4px solid gray;
+    border-radius: 10px;
+    font-size: large;
+    }
+ul{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    font-size: larger;
+    
+    
+}
+h1{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+li{
+    
+    list-style: none;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+    }
+    .navbar ul #a-index{
+        height: 20px;
+        width: 20px;
+        box-shadow: 2px 3px 6px gray;
+        border: radius 25px; ;
+    }
+    body{
+        background-color: black;
+    }
+    #d1{
+        box-shadow: 0px 0px 10px skyblue;
+       height: 100px;
+       align-content: center;
+       margin-top: 10%;
+    }
